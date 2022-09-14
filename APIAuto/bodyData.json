@@ -1,0 +1,20 @@
+ {
+      "firstname": "deepak",
+      "lastname": "chanana",
+      "desigantion": "team lead",
+      "type": "Selenium student",
+      "id": "retesting",
+      "Address":
+     [
+     {
+     "sector": "28",
+     "house no": "1234",
+     "type" : "Primary address"
+     },
+     {
+     "sector": "28",
+     "house no": "1234",
+     "type" : "Secondary address"
+     }
+    ]
+ }
